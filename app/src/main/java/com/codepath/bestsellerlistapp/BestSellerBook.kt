@@ -21,10 +21,10 @@ class BestSellerBook {
     var author: String? = null
 
     //TODO bookImageUrl
-
+    var bookImageUrl : String? = null
 
     //TODO description
-
+    var description : String? = null
 
     //TODO-STRETCH-GOALS amazonUrl
 }
